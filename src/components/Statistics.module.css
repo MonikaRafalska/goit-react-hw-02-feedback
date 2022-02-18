@@ -1,0 +1,9 @@
+.list{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  text-transform: capitalize;
+  text-align: left;
+  margin: 0;
+  padding-left: 120px;
+}
